@@ -1,0 +1,18 @@
+// Local docs variables
+$bd-purple:        #042f70 !default;
+$bd-purple-bright: lighten(saturate($bd-purple, 5%), 15%) !default;
+$bd-purple-light:  lighten(saturate($bd-purple, 5%), 45%) !default;
+$bd-dark:          #2a2730 !default;
+$bd-download:      #ffe484 !default;
+$bd-info:          #5bc0de !default;
+$bd-warning:       #f0ad4e !default;
+$bd-danger:        #d9534f !default;
+
+
+// "RGB Hex","RGB Hex3","HSL","RGB","HTML Keyword"
+// "#042f70","#037","hsl(216,93,22)","rgb(4,47,112)","midnightblue"
+// "#9e7693","#a79","hsl(316,17,54)","rgb(158,118,147)","gray"
+// "#90b9c8","#9cd","hsl(196,33,67)","rgb(144,185,200)","lightsteelblue"
+// "#7e9d90","#8a9","hsl(154,13,55)","rgb(126,157,144)","lightslategray"
+// "#58575b","#656","hsl(254,2,34)","rgb(88,87,91)","dimgray"
+// "#042f70","#037","hsl(216,93,22)","rgb(4,47,112)","midnightblue"
